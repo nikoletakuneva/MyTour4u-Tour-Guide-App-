@@ -1,0 +1,1605 @@
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerTest followCampusTour
+INFO: 
+#############################################################
+TESTCASE: followCampusTour
+#############################################################
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: 70.0  North: 60.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: 50.0  North: 50.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: -180.0  North: -690.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: 180.0  North: 690.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.Displacement bearing
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: -72.0  North: -59.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: -2.0  North: 1.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: 72.0  North: 59.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.Displacement bearing
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: -50.0  North: -50.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: 20.0  North: 10.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: 50.0  North: 50.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.Displacement bearing
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: 0.0  North: 0.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: 0.0  North: 0.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: 0.0  North: 0.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.Displacement bearing
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: -3.0  North: 1.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: -3.0  North: 1.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endSelectedTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endSelectedTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerTest createTourModeError
+INFO: 
+#############################################################
+TESTCASE: createTourModeError
+#############################################################
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerTest endBeforeLastWaypoint
+INFO: 
+#############################################################
+TESTCASE: endBeforeLastWaypoint
+#############################################################
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: 1500.0  North: 300.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: 500.0  North: 0.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: -500.0  North: 0.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.Displacement bearing
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: -1490.0  North: -300.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: 10.0  North: 0.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: 1490.0  North: 300.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.Displacement bearing
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endSelectedTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endSelectedTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerTest browsingToursOrdered
+INFO: 
+#############################################################
+TESTCASE: browsingToursOrdered
+#############################################################
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: 70.0  North: 60.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: 50.0  North: 50.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: 1500.0  North: 300.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerTest followTourModeError
+INFO: 
+#############################################################
+TESTCASE: followTourModeError
+#############################################################
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerTest browsingTwoTours
+INFO: 
+#############################################################
+TESTCASE: browsingTwoTours
+#############################################################
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: 1500.0  North: 300.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showTourDetails
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showTourDetails
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showTourDetails
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showTourDetails
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerTest testAddOfTwoTours
+INFO: 
+#############################################################
+TESTCASE: testAddOfTwoTour
+#############################################################
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: 1500.0  North: 300.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerTest createCloseWaypointsTourError
+INFO: 
+#############################################################
+TESTCASE: createCloseWaypointsTourError
+#############################################################
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: -1.2829999999999977  North: -0.3873000000000033
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerTest testAddTwoPointTour
+INFO: 
+#############################################################
+TESTCASE: testAddTwoPointTour
+#############################################################
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: 1500.0  North: 300.0
+Nov 28, 2017 12:46:58 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerTest followOldTownTour
+INFO: 
+#############################################################
+TESTCASE: followOldTownTour
+#############################################################
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:58 PM tourguide.Displacement <init>
+FINER: East: 1500.0  North: 300.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: 500.0  North: 0.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: -500.0  North: 0.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.Displacement bearing
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: -1490.0  North: -300.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: 10.0  North: 0.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: 1490.0  North: 300.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.Displacement bearing
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: -100.0  North: 0.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: 1400.0  North: 300.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: 100.0  North: 0.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.Displacement bearing
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: 0.0  North: 0.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: 0.0  North: 0.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp endSelectedTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endSelectedTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerTest testAddOnePointTour
+INFO: 
+#############################################################
+TESTCASE: testAddOnePointTour
+#############################################################
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerTest createNoWaypointsTourError
+INFO: 
+#############################################################
+TESTCASE: createNoWaypointsTourError
+#############################################################
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerTest leaveAndReturnImmediatelyToWaypoint
+INFO: 
+#############################################################
+TESTCASE: leaveAndReturnImmediatelyToWaypoint
+#############################################################
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: 1500.0  North: 300.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: 500.0  North: 0.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: -500.0  North: 0.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.Displacement bearing
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: -1490.0  North: -300.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: 10.0  North: 0.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: 1490.0  North: 300.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.Displacement bearing
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: -100.0  North: 0.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: 1400.0  North: 300.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: 100.0  North: 0.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.Displacement bearing
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: -1490.0  North: -300.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: 10.0  North: 0.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: 1490.0  North: 300.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.Displacement bearing
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp endSelectedTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endSelectedTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerTest followNotFoundTourError
+INFO: 
+#############################################################
+TESTCASE: followNotFoundTourError
+#############################################################
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp followTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: followTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerTest testAddOfThreeTours
+INFO: 
+#############################################################
+TESTCASE: testAddOfThreeTours
+#############################################################
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: 1500.0  North: 300.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: 70.0  North: 60.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.Displacement <init>
+FINER: East: 50.0  North: 50.0
+Nov 28, 2017 12:46:59 PM tourguide.Displacement distance
+FINER: Entering
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerTest createLastLegTourError
+INFO: 
+#############################################################
+TESTCASE: createLastLegTourError
+#############################################################
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp startNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: startNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp setLocation
+FINE: 
+-------------------------------------------------------------
+MESSAGE: setLocation
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addWaypoint
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addWaypoint
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp addLeg
+FINE: 
+-------------------------------------------------------------
+MESSAGE: addLeg
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp endNewTour
+FINE: 
+-------------------------------------------------------------
+MESSAGE: endNewTour
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerImp showToursOverview
+FINE: 
+-------------------------------------------------------------
+MESSAGE: showToursOverview
+-------------------------------------------------------------
+Nov 28, 2017 12:46:59 PM tourguide.ControllerTest noTours
+INFO: 
+#############################################################
+TESTCASE: noTours
+#############################################################
+TEST RESULTS
+Number of tests run: 24
+ALL TESTS PASSED
