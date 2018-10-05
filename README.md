@@ -4,4 +4,4 @@ It containts code, a UML class model, a UML sequence diagram, system description
 a tour guide app we named MyTour4u.  
 Coursework 1 Mark: 96/100  
 Coursework 2 Mark: 83/100  
-Coursework 3 Mark: 77/100  
+Coursework 3 Mark: 76/100  
